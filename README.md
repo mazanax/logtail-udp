@@ -6,7 +6,7 @@ connection between your php backend and Logtail or this proxy)
 ### How it works
 
 1. Deploy this proxy to your local network
-2. Send logs from Monolog to this proxy
+2. Send logs from Monolog to this proxy (Monolog Handler example: https://gist.github.com/mazanax/73245ff47518769007b32c0f5ce339bd)
 3. Read your logs in logtail
 
 ### Configuration
